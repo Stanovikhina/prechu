@@ -1,3 +1,5 @@
+/* prefixed by https://autoprefixer.github.io (PostCSS: v7.0.26, autoprefixer: v9.7.3) */
+
 .button {
   position: relative;
   margin: 0;
@@ -12,7 +14,8 @@
   text-align: center;
   text-decoration: none;
   -webkit-appearance: none;
-  appearance: none;
+  -moz-appearance: none;
+       appearance: none;
 }
 .button:hover {
   text-decoration: none;
