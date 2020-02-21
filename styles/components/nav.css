@@ -1,0 +1,21 @@
+.nav {
+}
+
+.nav .nav-item {
+  padding: 20px;
+  color: #6c6c6c;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0.2px;
+}
+.nav .nav-item:hover {
+}
+
+.nav .is-active {
+}
+
+@media (max-width: 960px) {
+  .nav {
+    display: none;
+  }
+}
